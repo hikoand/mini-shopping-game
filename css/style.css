@@ -84,7 +84,7 @@ body {
   list-style: none;
   /*li태그는 양옆에 태그가 들어가있음*/
   padding-left: 0;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .item {
